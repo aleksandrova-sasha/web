@@ -1,0 +1,61 @@
+.place {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6fd4f2;
+}
+.круг {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border-radius: 50%
+}
+
+.пусто {
+    height: 100px;
+    width: 100px;
+    background-color: #6fd4f2;
+}
+.квадрат {
+    height: 80px;
+    width: 120px;
+    background-color: #967544;
+}
+
+.дверь {
+    height: 110px;
+    width: 90px;
+    background-color: #3b342a;
+}
+
+.около-двери {
+    height: 110px;
+    width: 135px;
+    background-color: #967544;
+}
+
+.четыре {
+    width: 200px;
+    height: 100px;
+    background: brown;
+}
+
+.трава {
+    height: 300px;
+    width: 2000px;
+    background-color: #429945;
+}
+
+.левый-низ {
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid brown;
+    border-right: 100px solid transparent;
+}
+
+.правый-низ {
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid brown;
+    border-left: 100px solid transparent;
+}
